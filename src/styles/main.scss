@@ -1,21 +1,12 @@
-
-html {
-  font-family: Roboto, sans-serif;
-}
-
-body {
-  margin: 0;
-}
-
 .button {
   font-size: 14px;
   display: flex;
   align-items: center;
   justify-content: center;
   height: 40px;
-  width: 200px;
-  margin: 0 40px;
-  background-color: #00ACDC;
+  width: 166px;
+  margin: 19px 16px;
+  background-color: #00acdc;
   color: white;
   text-decoration: none;
   border-radius: 5px;
@@ -26,6 +17,6 @@ body {
 .button:hover {
   background-color: #fff;
   transform: scale(1.05);
-  color: #00ACDC;
-  border: 1px solid #00ACDC;
+  color: #00acdc;
+  border: 1px solid #00acdc;
 }
