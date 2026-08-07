@@ -1,11 +1,20 @@
+
+html {
+  font-family: Roboto, sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
 .button {
   font-size: 14px;
   display: flex;
   align-items: center;
   justify-content: center;
   height: 40px;
-  width: 166px;
-  margin: 19px 16px;
+  width: 200px;
+  margin: 0 40px;
   background-color: #00ACDC;
   color: white;
   text-decoration: none;
